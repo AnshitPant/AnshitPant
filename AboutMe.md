@@ -1,5 +1,5 @@
 Hi, I’m @AnshitPant.
-I’m currently learning c++ as my first programming language. 
-I am a complete beginner and i am learning things :)
+I’m currently learning Python as my first programming language. 
+
 
 
